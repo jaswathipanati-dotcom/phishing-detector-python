@@ -26,7 +26,7 @@ if url.count(".") > 3:
 
 # Result
 if score >= 2:
-    print("⚠️ Phishing Website Detected")
+    print("Phishing Website Detected")
 else:
-    print("✅ Safe Website")
+    print("Safe Website")
 input("Press Enter to exit...")
